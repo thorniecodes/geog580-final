@@ -33,7 +33,7 @@ The Space Problem: Each data center campus can sprawl across dozens or even hund
 *2 Ways to Visually Represent Change Caused by Data Center Development*
 I use pictures of the Earth taken by satellites put up in the sky by NASA  to understand what had changed about the land and temperature changes in Loudon County and Prince William County, VA using images from August 2019 and August 2024 to compare. I am expecting there to less green spaces and a raise in local temperatures. Additionally, I'll show urban development within Loudoun County to highlight the massive growth within this time period.
 
-Visit [https://thorniecodes.github.io/geog580-finalproject/](https://thorniecodes.github.io/geog580-finalproject/) to read my work.
+Visit [https://thorniecodes.github.io/geog580-final/](https://thorniecodes.github.io/geog580-final/) to read my work.
 
 ---------
 
