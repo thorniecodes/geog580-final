@@ -13,7 +13,7 @@ I chose to develop skills to conduct a temporal multispectral analyse while sele
 
 ----
 
-# ESRI StoryMap
+# Interactive Storytelling with ESRI StoryMap
 [The Hidden Cost of Cloud Computing
 Using Remote Sensing Principles and Applications to Analyze Industrial Growth and Land Surface Temperature Changes in Loudoun County, VA](https://storymaps.arcgis.com/stories/bc75f586c75b4b1881408489990047b4)
 
