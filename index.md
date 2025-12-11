@@ -27,6 +27,6 @@ Using Remote Sensing Principles and Applications to Analyze Industrial Growth an
 
 # Read the Report
 [The Hidden Cost of Cloud Computing
-Using Remote Sensing Principles and Applications to Analyze Industrial Growth and Land Surface Temperature Changes in Loudoun County, VA - Report](/assets/report.pdf)
+Using Remote Sensing Principles and Applications to Analyze Industrial Growth and Land Surface Temperature Changes in Loudoun County, VA - Report](/assets/thornhill-finalreport.pdf)
 
 
